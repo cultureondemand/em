@@ -7,12 +7,12 @@
 
 .step {
 
- /*  */
+ /*  
   background-color: #0ff000;
   width:66px;
    transition: all .01s ease;
   -webkit-transition:all .01s ease;
-
+*/
  }
 
 
@@ -26,7 +26,7 @@
   margin-left: 7.4em;
   width:20em;
   */
-   background-color: #0ff000;
+   background-color: #000000;
   position: relative;
   padding: 1.05em;
   z-index: 2;
