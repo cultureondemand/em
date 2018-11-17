@@ -8,9 +8,9 @@
 
 .step {
 
-
-  background-color: #0ff000;
-  width:66px;
+background-color: #000;
+    width: 266px;
+    color: #fff;
  /*   
   transition: all .01s ease;
   -webkit-transition:all .01s ease;
@@ -22,7 +22,7 @@
 
 
 .step-content {
-  max-width: 20px;  
+    max-width: 220px;
 /*  
   min-width: 280px;  
   margin-left: 7.4em;
