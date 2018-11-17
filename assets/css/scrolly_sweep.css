@@ -31,7 +31,7 @@ body {
   position: fixed;
   z-index: 1;
 }
-
+ 
 .bgbg0 {
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -746,7 +746,7 @@ polyline {
     background-color: #fff;
     height: 100%;
     color: #000;
-    margin-left: 0;
+    margin-left: 55%;
     padding: 0;
     z-index: 1;
     overflow: visible;
