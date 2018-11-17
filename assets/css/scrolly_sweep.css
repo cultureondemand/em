@@ -729,27 +729,29 @@ polyline {
 /* Desktop Styles */
 @media only screen and (min-width: 961px) {
   .step {
-    margin-bottom: 96vh;
-    font-family: "HelveticaNeue",
-      "Helvetica Neue",
-      'TeXGyreHerosRegular',
-      "Helvetica",
-      "Tahoma",
-      "Geneva",
-      "Arial",
-      sans-serif;
+	  
+	  
+	  
+	  
+	  margin-bottom: 96vh;
+    font-family: "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     font-size: 1.1em;
     line-height: 1.4em;
     color: #fff;
     font-style: normal;
     font-weight: 400;
-    background-color: #fff;
+    background-color: #000;
     height: 100%;
-    color: #000;
+    color: #fff;
     margin-left: 55%;
     padding: 0;
     z-index: 1;
     overflow: visible;
+    width: 266px;
+	  
+	  
+	  
+	   
   }
 }
 
