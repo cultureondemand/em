@@ -4,9 +4,9 @@ var slideData = [
     section: "",
     header: "",
     bkgImage: {
-      small: "Denver_capitol.jpg",
-      medium: "Denver_capitol.jpg",
-      large: "Denver_capitol.jpg"
+      small: "et_nobg.png",
+      medium: "et_nobg.png",
+      large: "et_nobg.png"
     },
     body: `
 
@@ -31,9 +31,9 @@ The traditional solution, expanding the highway network to relieve congestion an
     section: "",
     header: "",
     bkgImage: {
-      small: "sweep02.png",
-      medium: "sweep02.png",
-      large: "sweep02.png"
+      small: "et_nobg.png",
+      medium: "et_nobg.png",
+      large: "et_nobg.png"
     },
     body: `
  <span class="opening">
