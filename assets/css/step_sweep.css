@@ -1,16 +1,18 @@
 #sections .step:first-child .bgbg {
   z-index: 0;
+  /*
      transition: none;
   -webkit-transition:none;
-
+*/
  }
 
 .step {
 
- /*  
+
   background-color: #0ff000;
   width:66px;
-   transition: all .01s ease;
+ /*   
+  transition: all .01s ease;
   -webkit-transition:all .01s ease;
 */
  }
