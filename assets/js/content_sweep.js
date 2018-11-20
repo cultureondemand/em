@@ -57,9 +57,23 @@ The idea actually is v
       large: "sweep03.png"
     },
     body: `
- <span class="opening">
-  <p>But it is expensive to add new lanes, and in many places physical cons</p>
-</span>
+
+ <br /><br />
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1" width="260" height="150"></svg>
+<div class="numerosA-words">Member of National Guard or Reserve</div>
+</div>
+
+
+<div class="numeros-hero">
+</div>
+
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="260" height="150"></svg>
+<div class="numerosB-words-h">Deployed as a Guardsman or Reservist</div>
+</div>
+
+
 
  
 `
