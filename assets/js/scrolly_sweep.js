@@ -117,8 +117,6 @@ var countttt;
     activateFunctions[1] = showTitle1;
     activateFunctions[2] = showTitle2;
    
-	  /*
-	  
 	  activateFunctions[3] = showTitle3;
     activateFunctions[4] = showTitle4;
     activateFunctions[5] = showTitle5;
@@ -143,6 +141,8 @@ var countttt;
     activateFunctions[22] = showTitle22;
     activateFunctions[23] = showTitle23;
 
+	
+	    /*
 
 */
 	  
@@ -153,7 +153,7 @@ var countttt;
     // Most sections do not need to be updated
     // for all scrolling and so are set to
     // no-op functions.
-    for (var i = 0; i < 3 + 1; i++) {
+    for (var i = 0; i < 24 + 1; i++) {
  //////   for (var i = 0; i < window.slides.length + 1; i++) {
       updateFunctions[i] = function() {};
     }
@@ -308,7 +308,7 @@ iii='';
 
    startnumerosA(numero_linked,"svg4");
 
-   startnumerosA(numero_views,"svg5");
+/////////////   startnumerosA(numero_views,"svg5");
 
 	 	      
 	
