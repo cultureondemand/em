@@ -23,7 +23,9 @@ var numero_blog = [312];
 var numero_facebook = [5840];
 var numero_insta = [2920];
 var numero_linked = [480];
-var numero_views = [1535158];
+
+
+///////////////// var numero_views = [1535158];
 
  
 
@@ -114,7 +116,10 @@ var countttt;
     activateFunctions[0] = showTitle0;
     activateFunctions[1] = showTitle1;
     activateFunctions[2] = showTitle2;
-    activateFunctions[3] = showTitle3;
+   
+	  /*
+	  
+	  activateFunctions[3] = showTitle3;
     activateFunctions[4] = showTitle4;
     activateFunctions[5] = showTitle5;
     activateFunctions[6] = showTitle6;
@@ -138,13 +143,17 @@ var countttt;
     activateFunctions[22] = showTitle22;
     activateFunctions[23] = showTitle23;
 
+
+*/
+	  
+	  
     // updateFunctions are called while
     // in a particular section to update
     // the scroll progress in that section.
     // Most sections do not need to be updated
     // for all scrolling and so are set to
     // no-op functions.
-    for (var i = 0; i < 24 + 1; i++) {
+    for (var i = 0; i < 3 + 1; i++) {
  //////   for (var i = 0; i < window.slides.length + 1; i++) {
       updateFunctions[i] = function() {};
     }
@@ -220,7 +229,7 @@ var countttt;
 
    startnumerosA(numero_linked);
 
-   startnumerosA(numero_views);
+ ////////////  startnumerosA(numero_views);
 
 	 	      
 	
