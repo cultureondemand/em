@@ -1802,3 +1802,809 @@ picture.js-background-image {
 .mdc-temporary-drawer {
 z-index: 111111 !important;	
 }
+
+
+
+
+
+
+
+
+
+}
+
+
+/* Desktop Styles */
+@media print {
+
+
+ 
+.bartexth {
+ 
+  fill: #000000;
+  font-size: 76%;
+font-family: 'din_bold-webfont', sans-serif;
+
+}
+
+
+
+}
+
+
+
+
+
+.bartextsm {
+ 
+  fill: #515151;
+  font-size: 30%;
+font-weight: 30;
+
+}
+
+#numeros {
+display: inline-block;
+position: fixed;
+}
+
+.numeros {
+display: inline-block;
+width: 150px;
+vertical-align: top;
+margin-left: 36px;
+margin-right: 36px;
+  margin-top:36px;
+ }
+
+.numerosA {
+display: inline-block;
+/* 
+  width: 310px;
+ */
+    margin:3px auto;
+    height:  300px;
+vertical-align: top;
+}
+
+.numeros-hero {
+display: block;
+/* 
+  width: 310px;
+ */
+margin-left: 60px;
+
+    height:  33px;
+
+}
+
+
+.numerosA-h {
+display: flex;
+   /* width: 240px; */
+    height:  150px;
+  }
+
+.numerosB-h {
+display: flex;
+height: 150px;
+   /* width: 240px; */
+  }
+
+.numerosB {
+display: inline-block;
+/* vertical-align: top; 
+ width: 310px;
+*/
+    margin:3px auto;
+    height:  300px;
+vertical-align: top;
+
+}
+
+.numerosC {
+display: inline-block;
+/* width: 310px;
+  vertical-align: top; */
+    margin:3px auto;
+    height:  300px;
+vertical-align: top;
+}
+
+.numerosA-words-h {
+
+/* display: inline-block;
+    width: 70%;
+     padding-right: 8px;
+ padding-top: .7em;
+ padding-bottom: 0; */
+  font-family: "din_bold-webfont",
+    "Arial",
+    sans-serif;
+    line-height: 1em;
+   font-size: 36px;
+     text-align: left;
+color: #294636;
+ }
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+
+
+
+.numerosA-words {
+
+   font-family: "din_bold-webfont", "Arial", sans-serif;
+  font-size: 18px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+  max-width: 290px;
+
+padding-bottom: 0;
+color: #294636;
+  }
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+/* Center the loader */
+
+
+
+.numerosA-words {
+
+   font-family: "din_bold-webfont", "Arial", sans-serif;
+  font-size: 20px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+  max-width: 290px;
+
+padding-bottom: 0;
+color: #294636;
+  }
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+
+
+.numerosA-words {
+
+   font-family: "din_bold-webfont", "Arial", sans-serif;
+  font-size: 24px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+    max-width: 290px;
+    padding-right: 8px;
+    padding-left: 18px;
+
+padding-bottom: 0;
+color: #294636;
+  }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+
+
+
+.numerosA-words-hero {
+
+   font-family: "din_bold-webfont", "Arial", sans-serif;
+  font-size: 18px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+  max-width: 290px;
+
+padding-bottom: 0;
+color: #294636;
+  }
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+/* Center the loader */
+
+
+
+.numerosA-words-hero {
+
+   font-family: "din_bold-webfont", "Arial", sans-serif;
+  font-size: 20px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+  max-width: 290px;
+
+padding-bottom: 0;
+color: #294636;
+  }
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+
+
+.numerosA-words-hero {
+
+   font-family: "din_bold-webfont", "Arial", sans-serif;
+  font-size: 24px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+    max-width: 290px;
+    padding-right: 8px;
+    padding-left: 18px;
+
+padding-bottom: 0;
+color: #294636;
+  }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+  
+
+
+
+.numerosB-words-h {
+display: block;
+width: 100%;
+margin-top: 18px;
+margin-bottom: 24px;
+height: 150px;
+/* display: inline-block;
+    width: 70%;
+     padding-right: 8px;
+ padding-top: .7em;
+ padding-bottom: 0; */
+     font-family: 'din_bold-webfont', sans-serif;
+    line-height: 1em;
+   font-size: 18px;
+     text-align: left;
+color: #9aada6;
+ }
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+
+
+
+.numerosB-words-h {
+display: block;
+width: 100%;
+margin-top: 18px;
+margin-bottom: 20px;
+height: 150px;
+/* display: inline-block;
+    width: 70%;
+     padding-right: 8px;
+ padding-top: .7em;
+ padding-bottom: 0; */
+     font-family: 'din_bold-webfont', sans-serif;
+    line-height: 1em;
+   font-size: 28px;
+     text-align: left;
+color: #9aada6;
+ }
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+  
+
+
+.numerosB-words-h {
+display: block;
+width: 100%;
+margin-top: 18px;
+margin-bottom: 24px;
+height: 150px;
+/* display: inline-block;
+    width: 70%;
+     padding-right: 8px;
+ padding-top: .7em;
+ padding-bottom: 0; */
+     font-family: 'din_bold-webfont', sans-serif;
+    line-height: 1em;
+   font-size: 36px;
+     text-align: left;
+color: #9aada6;
+ }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+
+
+
+
+
+.numerosB-words {
+ 
+
+
+     font-family: "din_bold-webfont", "Arial", sans-serif;
+    padding-bottom: 0;
+    padding-left: 18px;
+    font-size: 18px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+    color: #9aada6;
+  max-width: 290px;
+
+
+ }
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+
+
+
+.numerosB-words {
+ 
+
+
+     font-family: "din_bold-webfont", "Arial", sans-serif;
+    padding-bottom: 0;
+    padding-left: 18px;
+    font-size: 20px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+    color: #9aada6;
+  max-width: 290px;
+
+
+ }
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+
+
+
+
+.numerosB-words {
+ 
+
+
+     font-family: "din_bold-webfont", "Arial", sans-serif;
+    padding-bottom: 0;
+    padding-left: 18px;
+    font-size: 24px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+    color: #9aada6;
+    max-width: 310px;
+
+
+ }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+
+
+
+
+
+.numerosC-words {
+display: inline-block;
+
+  font-family: "din_bold-webfont",
+    "Arial",
+    sans-serif !important;
+ padding-bottom: 0;
+ padding-left: 18px;
+  font-size: 20px;
+margin-top:.6em;
+margin-bottom:.3em;
+text-align: left;
+display: block;
+ padding-right: 1px;
+color: #888888;
+
+ max-width: 290px;
+
+ 
+
+
+
+
+
+
+
+ }
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+
+
+
+
+.numerosC-words {
+display: inline-block;
+
+  font-family: "din_bold-webfont",
+    "Arial",
+    sans-serif !important;
+ padding-bottom: 0;
+ padding-left: 18px;
+  font-size: 24px;
+margin-top:.6em;
+margin-bottom:.3em;
+text-align: left;
+display: block;
+ padding-right: 8px;
+color: #888888;
+ max-width: 290px;
+
+
+ }
+
+
+
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+
+
+
+
+.numerosC-words {
+ 
+
+
+     font-family: "din_bold-webfont", "Arial", sans-serif !important;
+    padding-bottom: 0;
+    padding-left: 18px;
+    font-size: 24px;
+    margin-top: .6em;
+    margin-bottom: .3em;
+    text-align: left;
+    display: block;
+     padding-right: 1px;
+    color: #888888;
+
+    max-width: 310px;
+
+
+
+
+ }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.numerosC-words-h {
+
+display: inline-block;
+  font-family: "din_bold-webfont",
+    "Arial",
+    sans-serif;
+ padding-top: .2em;
+ padding-bottom: 0;
+   font-size: 24px;
+     text-align: left;
+    width: 72%;
+vertical-align: middle;
+    padding-right: 8px;
+color: #888888;
+ }
+
+.issuesA {
+ display: block;
+   margin-top:6px;
+  margin-bottom:36px;
+text-align: left;
+line-height: 1.2em;
+ 
+     font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 80px;
+  color: #294636 !important;
+ width: 100%;
+
+}
+
+.issuesB {
+display: block;
+     margin-top:6px;
+ text-align: left;
+line-height: 1.2em;
+      font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 80px;
+  color:#9aada6 !important;
+ width: 100%;
+
+}
+
+
+
+.issuesC {
+ display: block;
+  margin-top:6px;
+  margin-bottom:26px;
+text-align: left;
+
+line-height: 1.2em;
+     font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 80px;
+  color:#888888 !important;
+ 
+width: 100%;
+}
+
+
+
+
+.issuesAsm {
+   margin-top:6px;
+ text-align: left;
+line-height: 1em;
+
+     font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 72px;
+  color: #294636 !important;
+ 
+
+}
+
+
+
+
+.issuesCsm {
+   margin-top:6px;
+ text-align: left;
+
+line-height: 1em;
+     font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 72px;
+  color:#888888 !important;
+ 
+
+}
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+  
+
+
+
+
+.issuesBsm {
+   margin-top:6px;
+ text-align: left;
+line-height: 1em;
+display: flex;
+     font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 36px;
+  color:#9aada6 !important;
+ 
+
+}
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+
+
+.issuesBsm {
+   margin-top:6px;
+ text-align: left;
+line-height: 1em;
+display: flex;
+     font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 48px;
+  color:#9aada6 !important;
+ 
+
+}
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+  
+
+
+.issuesBsm {
+   margin-top:6px;
+ text-align: left;
+line-height: 1em;
+display: flex;
+     font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 72px;
+  color:#9aada6 !important;
+ 
+
+}
+
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
