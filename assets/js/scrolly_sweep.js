@@ -247,12 +247,16 @@ iii='';
 
 
 
-   startnumerosA(numeroSupport,"svg0");
+   startnumerosA(numero_twitter,"svg0");
 
-   startnumerosB(numeroUnderstand,"svg1");
+   startnumerosB(numero_blog,"svg1");
 
-   startnumerosC(numeroHire,"svg2");
+   startnumerosC(numero_views,"svg2");
 
+	  
+	 
+	  
+	  
   
  
   }
