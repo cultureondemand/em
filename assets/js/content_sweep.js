@@ -11,6 +11,16 @@ var slideData = [
     body: `
 
 
+  <span class="opening">
+  <p>Anyone who travels on highways in the Front Range knows </p>
+  </span>
+
+
+
+<p>
+. 
+
+<br />
  <br /><br />
 <div class="numerosA">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg0" width="300" height="72"></svg>
@@ -69,16 +79,6 @@ var slideData = [
 </div>
 
 
-  <span class="opening">
-  <p>Anyone who travels on highways in the Front Range knows </p>
-  </span>
-
-
-
-<p>
-The traditional solution, expanding the highway network to relieve congestion and accommodate 
-
-<br />
  -->
     `
   },
