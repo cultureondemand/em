@@ -176,11 +176,6 @@ The idea actually is v
   },
 
 
-  //////////////
-  
-  
-  */
-
   
     {
     section: "Figure 4 | Managed Lanes and Interstate Expansion Costs in the Denver Metro Area",
@@ -193,6 +188,8 @@ The idea actually is v
     body: `CDOT faces significant funding challenges and lacks the funding to complete other major highway expansions that are already planned (I-70 East, I-25 North, I-70 Mountain, and I-270).`
     
   },
+
+
   {
     section: "Figure 5 | Congestion on the T-REX Corridor <span class='footnotenumber'>5</span><br /> <div id='outputB'><div id='fnA'><span class='footnotenumberr'>5</span> Volume/Capacity Ratio data was obtained for the entire corridor from CDOT.</div></div>",
   header: "",
@@ -204,6 +201,11 @@ The idea actually is v
     body:`By 2010, just four years after completion of the $1.67 billion  Transportation Expansion (T-REX) project, congestion had returned to the level experienced when construction began in 2001.`
 
   } ,
+  //////////////
+  
+  
+  */  
+  
   {
     section: "",
 header: "",
