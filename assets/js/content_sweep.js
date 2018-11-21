@@ -13,7 +13,7 @@ var slideData = [
 
  <br /><br />
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg0" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg0" width="300" height="72"></svg>
 <div class="numerosA-words">Tweets</div>
 </div>
 
@@ -24,7 +24,7 @@ var slideData = [
 </div>
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg1" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1" width="300" height="72"></svg>
 <div class="numerosA-words">Blogs posted</div>
 </div>
 
@@ -33,7 +33,7 @@ var slideData = [
 </div>
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="300" height="72"></svg>
 <div class="numerosA-words">Facebook Posts</div>
 </div>
 
@@ -45,7 +45,7 @@ var slideData = [
 </div>
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg3" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3" width="300" height="72"></svg>
 <div class="numerosA-words">Instagrams Snapped</div>
 </div>
 
@@ -54,7 +54,7 @@ var slideData = [
 </div>
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg4" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4" width="300" height="72"></svg>
 <div class="numerosA-words">LinkedIn Shares</div>
 </div>
 
@@ -63,11 +63,11 @@ var slideData = [
 </div>
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg5" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg5" width="300" height="72"></svg>
 <div class="numerosA-words">Pageviews</div>
 </div>
 
-
+<!-- 
 
   <span class="opening">
   <p>Anyone who travels on highways in the Front Range knows </p>
@@ -77,9 +77,9 @@ var slideData = [
 
 <p>
 The traditional solution, expanding the highway network to relieve congestion and accommodate 
- 
-<br />
 
+<br />
+ -->
     `
   },
   
