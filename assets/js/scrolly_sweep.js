@@ -18,9 +18,14 @@ var numerotrigger='';
 ///////////////
 
 
-var numero_twitter = [1158];
-var numero_blog = [35158];
+var numero_twitter = [25550];
+var numero_blog = [312];
+var numero_facebook = [5840];
+var numero_insta = [2920];
+var numero_linked = [480];
 var numero_views = [1535158];
+
+ 
 
 
 
@@ -206,10 +211,24 @@ var countttt;
 
    startnumerosA(numero_twitter);
 
-   startnumerosB(numero_blog);
+   startnumerosA(numero_blog);
 
-   startnumerosC(numero_views);
+   startnumerosA(numero_facebook);
 
+
+   startnumerosA(numero_insta);
+
+   startnumerosA(numero_linked);
+
+   startnumerosA(numero_views);
+
+	 	      
+	
+
+	      
+	      
+	      
+	      
 	      
 	      
 	       trigger=1;
@@ -266,12 +285,26 @@ iii='';
 
    startnumerosA(numero_twitter,"svg0");
 
-   startnumerosB(numero_blog,"svg1");
+   startnumerosA(numero_blog,"svg1");
 
-   startnumerosC(numero_views,"svg2");
+   startnumerosA(numero_facebook,"svg2");
 
 	  
-	 
+	
+	  
+	   
+
+
+   startnumerosA(numero_insta,"svg3");
+
+   startnumerosA(numero_linked,"svg4");
+
+   startnumerosA(numero_views,"svg5");
+
+	 	      
+	
+	  
+	  
 	  
 	  
   
