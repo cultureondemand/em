@@ -221,6 +221,11 @@ iii='';
    *
    */
   function showTitle1() {
+	  
+	  
+	  iii=0;
+	  
+	  
     ////////////////////////////////////////////
     ////////// Video item to turn off
     //////////
@@ -241,6 +246,12 @@ iii='';
     logoOpener.setAttribute("style", "display:none; ");
 
 
+
+   startnumerosA(numeroSupport,"svg0");
+
+   startnumerosB(numeroUnderstand,"svg1");
+
+   startnumerosC(numeroHire,"svg2");
 
   
  
