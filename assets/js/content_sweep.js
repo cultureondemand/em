@@ -14,16 +14,57 @@ var slideData = [
  <br /><br />
 <div class="numerosA">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg0" width="260" height="150"></svg>
-<div class="numerosA-words">Member of National Guard or Reserve</div>
+<div class="numerosA-words">Tweets</div>
+</div>
+
+ 
+
+
+<div class="numeros-hero">
+</div>
+
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1" width="260" height="150"></svg>
+<div class="numerosA-words">Blogs posted</div>
 </div>
 
 
 <div class="numeros-hero">
 </div>
 
-<div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg1" width="260" height="150"></svg>
-<div class="numerosB-words-h">Deployed as a Guardsman or Reservist</div>
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="260" height="150"></svg>
+<div class="numerosA-words">Facebook Posts</div>
+</div>
+
+
+
+
+
+<div class="numeros-hero">
+</div>
+
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3" width="260" height="150"></svg>
+<div class="numerosA-words">Instagrams Snapped</div>
+</div>
+
+
+<div class="numeros-hero">
+</div>
+
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4" width="260" height="150"></svg>
+<div class="numerosA-words">LinkedIn Shares</div>
+</div>
+
+
+<div class="numeros-hero">
+</div>
+
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg5" width="260" height="150"></svg>
+<div class="numerosA-words">Pageviews</div>
 </div>
 
 
