@@ -1814,6 +1814,484 @@ z-index: 111111 !important;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+ 
+
+
+
+.sectionlede {
+
+
+  display:block;width:100%; padding-left:24px;padding-top:26px;padding-right:24px;padding-bottom:26px;
+  line-height: 1.6em;
+  font-size: 16px;
+ }
+
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+
+
+
+.sectionlede {
+
+
+  display:block;width:100%; padding-left:24px;padding-top:26px;padding-right:24px;padding-bottom:26px;
+  line-height: 1.6em;
+  font-size: 18px;
+ }
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+
+
+.sectionlede {
+
+
+  display:block;width:100%; padding-left:185px;padding-top:26px;padding-right:66px;padding-bottom:26px;
+  line-height: 1.6em;
+  font-size: 20px;
+ }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+ 
+
+
+
+.sectionledeB {
+
+
+  display:block;width:100%; padding-left:24px;padding-top:26px;padding-right:24px;padding-bottom:26px;
+  line-height: 1.6em;
+  font-size: 16px;
+ }
+
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+
+
+
+.sectionledeB {
+
+
+  display:block;width:100%; padding-left:24px;padding-top:26px;padding-right:24px;padding-bottom:26px;
+  line-height: 1.6em;
+  font-size: 18px;
+ }
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+
+
+.sectionledeB {
+
+
+  display:block;width:100%; padding-left:185px;padding-top:26px;padding-right:66px;padding-bottom:26px;
+  line-height: 1.6em;
+  font-size: 20px;
+ }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+ 
+
+
+
+.sectionlede:first-child:first-letter {
+
+
+  color: #dcf428;
+  display: inline;
+  float: left;
+  font-size: 102px;
+font-family: 'din_bold-webfont', sans-serif;
+font-style: normal;
+font-weight: 700;
+  line-height: .66em;
+  margin: 0.03em 0.04em 0 0;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+
+
+
+
+.sectionlede:first-child:first-letter {
+
+
+  color: #dcf428;
+  display: inline;
+  float: left;
+  font-size: 142px;
+font-family: 'din_bold-webfont', sans-serif;
+font-style: normal;
+font-weight: 700;
+  line-height: .66em;
+  margin: 0.03em 0.04em 0 0;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+
+
+
+.sectionlede:first-child:first-letter {
+
+
+  color: #dcf428;
+  display: inline;
+  float: left;
+  font-size: 202px;
+font-family: 'din_bold-webfont', sans-serif;
+font-style: normal;
+font-weight: 700;
+  line-height: .66em;
+  margin: 0.03em 0.04em 0 0;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.txttxt {
+    font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 96px;
+  fill:#294636 !important;
+ }
+
+
+
+
+
+.txttxtA {
+    font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 96px;
+  fill:#9aada6 !important;
+ }
+
+
+
+
+
+.txttxtB {
+    font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 96px;
+  fill:#888888 !important;
+ }
+
+
+
+.txt {
+    font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 180px;
+  fill:#78933f !important;
+   margin-bottom: 6px;
+}
+
+
+
+
+.txtA {
+    font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 180px;
+  fill:#294636 !important;
+   margin-bottom: 6px;
+}
+
+
+
+.txtB {
+    font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 180px;
+  fill:#9aada6 !important;
+   margin-bottom: 6px;
+}
+
+
+
+.txtC {
+    font-family: 'stint_ultra_condensedregular', sans-serif;
+  font-size: 180px;
+  fill:#888888 !important;
+   margin-bottom: 6px;
+}
+
+
+
+.numbersrow {
+display: flex;
+    margin-top: 24px;
+    text-align: center;
+/*   display: flex;  8 */
+}
+
+
+
+.numbersrowB {
+
+ /*  width: 100%; */
+  display: block;
+   text-align: center;
+}
+
+text {
+
+  font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+
+.bartext {
+ 
+display: none;
+visibility: hidden;
+opacity: 0;
+
+}
+
+
+
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+ 
+.bartext {
+ 
+  fill: #000000;
+  font-size: 50%;
+ 
+}
+
+
+
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+.bartext {
+ 
+  fill: #000000;
+  font-size: 50%;
+ 
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+
+
+
+ 
+.bartexth {
+ 
+  fill: #000000;
+  font-size: 63%;
+font-family: 'din_bold-webfont', sans-serif;
+
+}
+
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+ 
+
+ 
+.bartexth {
+ 
+  fill: #000000;
+  font-size: 66%;
+font-family: 'din_bold-webfont', sans-serif;
+
+}
+
+
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+
+ 
+.bartexth {
+ 
+  fill: #000000;
+  font-size: 76%;
+font-family: 'din_bold-webfont', sans-serif;
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
 /* Desktop Styles */
 @media print {
 
