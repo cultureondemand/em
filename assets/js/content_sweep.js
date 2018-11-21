@@ -16,11 +16,7 @@ var slideData = [
   </span>
 
 
-
-<p>
-. 
-
-<br />
+ 
  <br /><br />
 <div class="numerosA">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg0" width="300" height="72"></svg>
