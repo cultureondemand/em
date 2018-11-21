@@ -16,6 +16,15 @@ var trigger='';
 var numerotrigger='';
 
 ///////////////
+
+
+var numero_twitter = [1158];
+var numero_blog = [35158];
+var numero_views = [1535158];
+
+
+
+
 /////////////
 
 
@@ -191,10 +200,18 @@ var countttt;
 
       if (!trigger) {
 
-var numero_twitter = [1158];
-var numero_blog = [35158];
-var numero_views = [1535158];
 
+	      
+	      
+
+   startnumerosA(numero_twitter);
+
+   startnumerosB(numero_blog);
+
+   startnumerosC(numero_views);
+
+	      
+	      
 	       trigger=1;
 iii='';
 } else {
