@@ -12,7 +12,7 @@ var slideData = [
 
 
   <span class="opening">
-  <p>Anyone who travels on highways in the Front Range knows </p>
+  <p>Some leadin text? </p>
   </span>
 
 
@@ -233,21 +233,24 @@ Southwest Energy Efficiency Project
 --!>
 
 
-<a href="//www.facebook.com/SWenergyefficiency/" class="social-icon" aria-label="Facebook" alt="Facebook">
+<a href="//www.facebook.com/elizabethtilis/" class="social-icon" aria-label="Facebook" alt="Facebook">
 <img src="assets/images/facebook-box.png" height="21" border="0" alt="facebook"></a>
           
-<a href="//www.twitter.com/southwestee" class="social-icon" aria-label="Twitter" alt="Twitter">
+<a href="//www.twitter.com/elizabethtilis" class="social-icon" aria-label="Twitter" alt="Twitter">
 <img src="assets/images/twitter.png" height="21" border="0" alt="facebook"></a>
 
 <br />
 <br />
  
 <p>&nbsp;</p>
-<h4><a href="assets/sweep_improving_mobility_wout_more_lanes.pdf">Improving Mobility Without Building More Lanes</a></h4>
+<h4><a href="assets/sweep_improving_mobility_wout_more_lanes.pdf">Maybe a contact form?</a></h4>
+
+
+<!-- 
 <button class="mdc-button mdc-button--raised" data-demo-no-js style="font-size:135%;font-weight:800; " onclick="window.open('assets/sweep_improving_mobility_wout_more_lanes.pdf')">
 Download the Report
 </button>
-
+ -->
 
  `
 
