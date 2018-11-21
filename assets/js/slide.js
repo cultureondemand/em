@@ -84,7 +84,8 @@
   function createBkg(bkgImage) {
     var node = document.createElement("div");
     node.className = "bgbg js-background-image";
-    /*
+    /*    */
+
     var innerHTML =
       "<picture>" +
       '<!--[if IE 9]><video style="display: none;"><![endif]-->' +
@@ -98,7 +99,6 @@
       "</picture>";
     // node.style.backgroundImage = "url(assets/images/bkg/" + id + ".jpg)";
     node.innerHTML = innerHTML;
-    */
     return node;
   }
 
