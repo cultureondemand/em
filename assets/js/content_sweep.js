@@ -222,13 +222,17 @@ header: "",
 
 <h3 class='prog'>
 
-
+<!-- 
 Saving money and protecting the environment by advancing energy efficiency in Arizona, Colorado, Nevada, New Mexico, Utah and Wyoming</h3>
 Southwest Energy Efficiency Project
 <br />
 <a href='http://www.swenergy.org/' target='_blank'>www.swenergy.org</a>
 
 <br />
+
+--!>
+
+
 <a href="//www.facebook.com/SWenergyefficiency/" class="social-icon" aria-label="Facebook" alt="Facebook">
 <img src="assets/images/facebook-box.png" height="21" border="0" alt="facebook"></a>
           
