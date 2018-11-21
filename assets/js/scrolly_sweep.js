@@ -1,9 +1,25 @@
+
+
+
 /**
  * scrollVis - encapsulates 
  * all the code for the visualization
  * using reusable charts pattern:
  * http://bost.ocks.org/mike/chart/
  */
+
+
+
+var iii=0;
+var name;
+var trigger='';
+var numerotrigger='';
+
+///////////////
+/////////////
+
+
+
 var padding=0;
 var scrollVis = function() {
   // constants to define the size
@@ -164,6 +180,39 @@ var countttt;
     ////////////////////////////////////////////
     /////////////////////////////
 
+	   
+	   
+	   
+/////////
+//////
+///////////
+
+
+
+      if (!trigger) {
+
+var numero_twitter = [1158];
+var numero_blog = [35158];
+var numero_views = [1535158];
+
+	       trigger=1;
+iii='';
+} else {
+
+
+}
+
+/////////
+//////
+///////////
+
+
+	   
+	   
+	   
+	   
+	   
+	   
     ///////////
     ///////////
   }
@@ -208,16 +257,18 @@ var countttt;
   /////////////
   //////////
 
-  /**
-   *
-   */
+
+ 
+
   function showTitle3() {
   
   
   
    d3.select("body").selectAll(".bgbg")
       .style('display', 'inline-block');
-  
+ 
+	   
+	   /**   *  */	
   d3.select("#vis").select("svg").remove();
 d3.select("#vis").select("g").remove();
 
@@ -226,7 +277,7 @@ d3.select("#vis").select("g").remove();
     vis.setAttribute("style", "display:none !important; ");
     vis.setAttribute("style", "visibility:hidden; ");
    
-	  
+  
 	  
 	  div.style("display", "none");
 
