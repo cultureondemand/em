@@ -58,6 +58,7 @@ var slideData = [
 <div class="numerosA-words">LinkedIn Shares</div>
 </div>
 
+<!-- 
 
 <div class="numeros-hero">
 </div>
@@ -67,7 +68,6 @@ var slideData = [
 <div class="numerosA-words">Pageviews</div>
 </div>
 
-<!-- 
 
   <span class="opening">
   <p>Anyone who travels on highways in the Front Range knows </p>
@@ -84,6 +84,9 @@ The traditional solution, expanding the highway network to relieve congestion an
   },
   
 
+  
+  /*
+  //////////////
 
   {
     section: "",
@@ -176,6 +179,13 @@ The idea actually is v
  Between 1993 (when Colorado last raised its gas tax) and 2015, the nominal value of the money CDOT collected rose by about $200 million dollars, but in real value the revenue has actually decreased by $21 million.    `
   },
 
+
+  //////////////
+  
+  
+  */
+
+  
     {
     section: "Figure 4 | Managed Lanes and Interstate Expansion Costs in the Denver Metro Area",
     header: "",
